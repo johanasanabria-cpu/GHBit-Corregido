@@ -5,7 +5,7 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "GHBit": "github:yahboomtechnology/ghbitlib#888de80746a09e25150e25e63b6209f49c069ffd"
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.6"
     },
     "files": [
         "main.blocks",
